@@ -1,4 +1,5 @@
-[This is the link to the lesson](https://www.codecademy.com/courses/learn-bootstrap/lessons/learn-bootstrap-utilities-components/exercises/bootstrap-utilities-and-components)
+
+
 
 # LEARN BOOTSTRAP 4: UTILITIES AND COMPONENTS
 
@@ -17,6 +18,3 @@
 > Look at the code in index.html. Play around with the elements and their classes, i.e. remove a class and run your code to see what effect it has on the rendered webpage.
 
 > You can also check the [Bootstrap documentation](https://getbootstrap.com/docs/4.2/getting-started/introduction/) and search for the classes’ purpose.
-
-memory jog:
-/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/LEARN-BOOTSTRAP-4_UTILITIES-AND-COMPONENTS-Bootstrap-Utilities-and-Components
